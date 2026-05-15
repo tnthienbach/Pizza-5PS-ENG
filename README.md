@@ -1,2 +1,6 @@
-# Pizza-5PS-ENG
-This is a data visualization project exploring the trend in sales of pizza dishes at Pizza 7PS in 2015, based on time period, pizza sizes, the number of orders per pizza, and the revenue per pizza.
+**Xu hướng ăn pizza tại Pizza 5PS trong năm 2025**  
+
+* Bối cảnh
+  Pizza 5Ps được thành lập vào năm 2025, là một nhà hàng 
+  
+* Mục tiêu
