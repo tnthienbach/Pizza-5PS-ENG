@@ -3,6 +3,7 @@
 </div>  
 
 * Bối cảnh
-  Pizza 5Ps được thành lập vào năm 2025, là một nhà hàng 
+  
+  Pizza 5Ps được thành lập vào năm 2025, là một nhà hàng Pizza tại thành phố Hồ Chí Minh
   
 * Mục tiêu
